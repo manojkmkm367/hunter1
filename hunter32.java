@@ -33,6 +33,6 @@ public class hunter32 {
 	for(i=0;i<n1;i++)
 	{
 		if(a1.get(i) ==last)
-			System.out.println("Value "+last+" is at the  Possition : "+(i+1));
+			System.out.println("Value "+last+" is at the  Position  : "+(i+1));
 	}	
 }
