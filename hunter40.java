@@ -25,9 +25,9 @@ public class hunter40 {
 		String b1=String.valueOf(a1);
 		String b2=String.valueOf(a2);
 		if(b1.equals(b2))
-		System.out.println(num+" is a palindrome ");
+		System.out.println("Sum og the digits of "+num+" is a palindrome ");
 		else
-			System.out.println(num+" is not a palindrome ");
+			System.out.println("Sum og the digits of "+num+" is not a palindrome ");
 		}
 		}
 	}
