@@ -35,9 +35,9 @@ public class hunter48 {
 	
 	if(flag==1)
 	{
-		System.out.println(count);
+		System.out.println("OUTPUT  : "+count);
 	}
 	else
-		System.out.println(-1);
+		System.out.println("OUTPUT  : "+-1);
 }
 }
