@@ -18,6 +18,6 @@ public class hunter55 {
 			list.add(inp1[j]);
 		}
 		
-		System.out.println(list);
+		System.out.println("Output :"+list);
 	}
 }
